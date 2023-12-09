@@ -1,0 +1,7 @@
+This database is about the test data of the Period Regulated Particle Swarm Optimization algorithm. 
+The code of the algorithm will be shown after the relevant papers are published.
+
+Each data file is a four-dimensional matrix that records the results of a test function. The first dimension is the number of FEs, the second dimension is the solution of the algorithm, the third dimension records different algorithms, and the fourth dimension records 30 different results.
+
+If the solution process of the 20th test of the PPSO algorithm is obtained, enter in the Matlab window:
+c(:,2,9,20)
